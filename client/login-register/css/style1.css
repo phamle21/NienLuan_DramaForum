@@ -1,0 +1,7 @@
+#hidden{
+    display: none;
+    cursor: pointer;
+}
+#hidden:hover{
+    color: lime;
+}
